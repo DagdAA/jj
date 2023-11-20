@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1253
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.800,
+tarson-livestream-1253.ts
+#EXTINF:10.800,
+tarson-livestream-1254.ts
+#EXTINF:10.800,
+tarson-livestream-1255.ts

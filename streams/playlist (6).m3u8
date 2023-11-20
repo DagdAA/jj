@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1717260,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+airedesantafetv/livestream1/chunks.m3u8?nimblesessionid=4380606140
+#EXT-X-STREAM-INF:BANDWIDTH=897069,RESOLUTION=854x480,CODECS="avc1.64001f,mp4a.40.2"
+airedesantafetv/livestream2/chunks.m3u8?nimblesessionid=4380606140
+#EXT-X-STREAM-INF:BANDWIDTH=489491,RESOLUTION=426x240,CODECS="avc1.640015,mp4a.40.2"
+airedesantafetv/livestream3/chunks.m3u8?nimblesessionid=4380606140
