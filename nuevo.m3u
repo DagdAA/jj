@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/5JfZJ5n.png" group-title="Entretenimiento",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
